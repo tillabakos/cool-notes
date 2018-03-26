@@ -1,0 +1,2 @@
+# cool-notes
+various notes 
